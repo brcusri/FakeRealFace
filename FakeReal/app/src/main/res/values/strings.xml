@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fake or Real Photo Detection</string>
+    <string name="upload">Upload Image</string>
+    <string name="ip">Server IP</string>
+</resources>
